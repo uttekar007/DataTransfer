@@ -9,7 +9,6 @@
 import Foundation
 
 class UserData: NSObject {
-    
     var userName : String!
     var userId : String!
 }
